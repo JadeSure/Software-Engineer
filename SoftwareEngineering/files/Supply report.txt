@@ -1,0 +1,9 @@
+Unicorn Market
+Report: supply report
+Date: 27/05/2019
+Vendor ID           Order Amount        
+-------------       -------------       
+V_00002             700.0               
+V_00001             100.0               
+-------------       -------------       
+Total               800.0               
