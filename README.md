@@ -4,11 +4,11 @@ This project includes use case diagrams, user stories with class and object diag
 Agile: 
 1. Based on iterative and incremental development  
 2. Most important phrases  
-2.1 Self-organizing, cross-functional teams.  
-2.2 Adaptive planning
-2.3 incremental development and delivery
-2.4 fixed timeslots and iterative approach
-2.5 fast and flexible response to change
+2.1 Self-organizing, cross-functional teams.   
+2.2 Adaptive planning  
+2.3 incremental development and delivery.  
+2.4 fixed timeslots and iterative approach.  
+2.5 fast and flexible response to change.  
 
 
 ## Description:
