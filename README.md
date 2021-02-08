@@ -14,7 +14,7 @@ Agile:
 ## Description:
 Project 4: Business Intelligence System
 A supermarket wants to introduce a business intelligence system allowing purchasing patterns of customers to be analysed. The swipe-card used by customers capture the address (post-code) and other relevant details of customers. To incentivise the use of the card, customers get 1 point for every $10 spent and are automatically discounted $5 for every 20 points. The system stores the product, customer, transaction and employee related details allowing necessary sales reports to be generated for business intelligence. Data may be stored in a relational database, flat files or through serialization. The system should store product, customer and employee related details allowing necessary reports to be generated.
-** Current Limitations
+## Current Limitations
 A typical checkout terminal consists of a touch screen and a barcode reader but for this assignment all data will be entered through the keyboard (including the customer card number and product ID). Assume the customer is required to specify the customer number thus allowing customer details to be stored.
 
 Project Requirements A typical customer:
