@@ -92,4 +92,18 @@ Analyze the user requirements
 4.9.	I want to generate supply report, so that I can keep track of our suppliers and find the opportunity for collaboration.   
 4.10.	I want to list products generating the most revenue, so that I can make a strategy for making more money.  
 
+<center>Supermarket Class Diagram</center>
+![picture1](/img/SEF1.png)
+
+<center>Use Case Diagram</center>
+![picture2](/img/SEF2.png)
+
+<center>Order Process</center>
+![picture3](/img/SEF3.png)
+
+<center>Sale State Diagram</center>
+![picture4](/img/SEF4.png)
+
+
+Details check <a href="/project_report.pdf" download="project_report.pdf">*Download Project Description*</a>
 
